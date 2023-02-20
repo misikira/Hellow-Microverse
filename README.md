@@ -251,10 +251,8 @@ I would like to thank code reviwers and coding partner
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-MIT License
 
 Copyright (c) [2023] [misikir teka]
-
+MIT License
 find more here(<a href="https://choosealicense.com/licenses/mit/">find more here</a>)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
